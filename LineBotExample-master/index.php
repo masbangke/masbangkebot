@@ -1,5 +1,5 @@
 <?php 
 
-echo '<h1> Welcome to my BOT.. *Halim Zamal</h1>';
+echo '<h1> Welcome to masbangke bot </h1>';
 
 ?>
